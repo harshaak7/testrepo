@@ -1,0 +1,12 @@
+name: Modify Permissions
+
+on:
+  workflow_dispatch:
+    
+permissions:
+  issues: read
+  statuses: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
