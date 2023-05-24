@@ -1,4 +1,0 @@
-fortify
-blackduck
-
-#sample commit
